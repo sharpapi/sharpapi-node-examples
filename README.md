@@ -1,7 +1,9 @@
-# SharpAPI Node.js Examples
+![SharpAPI GitHub cover](https://sharpapi.com/sharpapi-github-php-bg.jpg)
 
-**SharpAPI Node.js SDK Client Usage Examples** is an educational repository designed to help developers understand and integrate the SharpAPI.com API endpoints into their Node.js applications. This project showcases various use cases and provides practical examples to demonstrate the capabilities of the SharpAPI Node.js SDK Client.
+# SharpAPI Node.js Test Suite / Examples 
 
+**SharpAPI Node.js SDK Client Test Suite / Usage Examples** is an educational repository designed to help developers understand and integrate the SharpAPI.com API endpoints into their Node.js applications. This project showcases various use cases and provides practical examples to demonstrate the capabilities of the SharpAPI Node.js SDK Client.
+ 
 ---
 
 ## Table of Contents
